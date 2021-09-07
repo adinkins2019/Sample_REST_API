@@ -1,2 +1,2 @@
-# Sample_REST_API
+# SampleRESTAPI
 Created with CodeSandbox
