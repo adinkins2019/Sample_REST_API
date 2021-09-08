@@ -1,7 +1,7 @@
 # SampleRESTAPI
 Created with CodeSandbox
 
-#README for Sample_REST_API
+# README for Sample_REST_API
 
 Sample REST API is a REST API for users data.
 Packages used:
@@ -17,7 +17,7 @@ To test functionality,
 - run npm start in your terminal
 - type localhost:3000 in your browser or use an application like Postman to check the routes
 
-Routes:
+# Routes:
 GET / -  Returns "Hello, World!"
 GET /users - Returns all users
 GET /users/:id - Returns a single user
