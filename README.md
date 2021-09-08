@@ -17,9 +17,9 @@ To test functionality,
 - type localhost:3000 in your browser or use an application like Postman to check the routes
 
 ### Routes:
-GET / -  Returns "Hello, World!"
-GET /users - Returns all users
-GET /users/:id - Returns a single user
-POST /users - Adds a user
-PUT /users/:id - Updates a user
-DELETE /users/:id - Deletes a single user
+<br>GET / -  Returns "Hello, World!"
+<br>GET /users - Returns all users
+<br>GET /users/:id - Returns a single user
+<br>POST /users - Adds a user
+<br>PUT /users/:id - Updates a user
+<br>DELETE /users/:id - Deletes a single user
